@@ -44,15 +44,6 @@ watch this [VIDEO](https://youtu.be/nb8i_8P_bU8?is=cUYG-Pvc38oUMCc7)
 
 # how to use this on DLC5 / GSC studio not working?
 
-in your black ops II install  (has to be in XEX format as the video above states) 
+put _clientids.gsc **HERE**
 
-make some new directories
-
-raw/maps/mp/gametypes_zm
-
-and put _clientids.gsc inside that folder
-
-should look like this
-
-
-<img width="698" height="259" alt="image" src="https://github.com/user-attachments/assets/c031c1b6-a43d-4606-9586-23d1e230d427" />
+<img width="699" height="218" alt="image" src="https://github.com/user-attachments/assets/8108e1cc-de7d-401a-89e5-30112e4e63f7" />
