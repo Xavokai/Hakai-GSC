@@ -30,3 +30,9 @@ please submit issues if u find any!
 
 
 @ last edited 2026-08-21 12:26 AM... somewhere.
+
+
+
+# How do you get DLC5?
+
+watch this [VIDEO](https://youtu.be/nb8i_8P_bU8?is=cUYG-Pvc38oUMCc7)
