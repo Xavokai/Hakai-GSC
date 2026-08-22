@@ -15,7 +15,9 @@ press the CODE button and press download ZIP, its not that hard
 ---
 ## ISSUES + OTHER INFO (will be edited many times btw)
 
-Giving "WAVE GUN" causes crash - looking into this (sadly the only one i can remember at the moment)
+Giving "WAVE GUN" causes crash - looking into this 
+
+Some weapons cannot be upgraded, will be fixed soon
 
 
 Some options on both versions may not work as intended and or could cause crashes.
