@@ -36,3 +36,7 @@ please submit issues if u find any!
 # How do you get DLC5?
 
 watch this [VIDEO](https://youtu.be/nb8i_8P_bU8?is=cUYG-Pvc38oUMCc7)
+
+# is the DLC5 Setup required for console?
+
+## Yes at the moment it is, i am currently looking into making a unpatched supported version for unpatched copies.
