@@ -49,3 +49,7 @@ watch this [VIDEO](https://youtu.be/nb8i_8P_bU8?is=cUYG-Pvc38oUMCc7)
 put _clientids.gsc **HERE**
 
 <img width="699" height="218" alt="image" src="https://github.com/user-attachments/assets/8108e1cc-de7d-401a-89e5-30112e4e63f7" />
+
+
+## want to support the creation of my tools/softwares & mods?
+### u can donate [here](https://ko-fi.com/zelraccoon)!
