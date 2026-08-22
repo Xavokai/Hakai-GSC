@@ -40,3 +40,19 @@ watch this [VIDEO](https://youtu.be/nb8i_8P_bU8?is=cUYG-Pvc38oUMCc7)
 # is the DLC5 Setup required for console?
 
 ## Yes at the moment it is, i am currently looking into making a unpatched supported version for unpatched copies.
+
+
+# how to use this on DLC5 / GSC studio not working?
+
+in your black ops II install  (has to be in XEX format as the video above states) 
+
+make some new directories
+
+raw/maps/mp/gametypes_zm
+
+and put _clientids.gsc inside that folder
+
+should look like this
+
+
+<img width="698" height="259" alt="image" src="https://github.com/user-attachments/assets/c031c1b6-a43d-4606-9586-23d1e230d427" />
